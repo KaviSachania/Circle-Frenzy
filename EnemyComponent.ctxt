@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=EnemyComponent()
+comment1.params=frameSize0\ playerSize0
+comment1.target=EnemyComponent(int,\ double)
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=g2
+comment3.target=void\ drawBall(java.awt.Graphics2D)
+comment4.params=
+comment4.target=void\ setLife()
+comment5.params=
+comment5.target=boolean\ getLife()
+comment6.params=
+comment6.target=double\ returnX()
+comment7.params=
+comment7.target=double\ returnY()
+comment8.params=
+comment8.target=double\ getRadius()
+comment9.params=e
+comment9.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=10

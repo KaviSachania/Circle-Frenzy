@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MusicPlayer()
+comment1.params=choice0
+comment1.target=void\ setMusicPlayer(java.lang.String)
+comment2.params=
+comment2.target=void\ playMusic()
+comment3.params=
+comment3.target=void\ playSong()
+comment4.params=
+comment4.target=void\ stopMusic()
+comment5.params=
+comment5.target=void\ startMusic()
+comment6.params=
+comment6.target=void\ pauseMusic()
+comment7.params=
+comment7.target=void\ nextSong()
+comment8.params=e
+comment8.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=9

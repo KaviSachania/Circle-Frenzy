@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=IntroComponent()
+comment1.params=
+comment1.target=void\ setPanels()
+comment2.params=
+comment2.target=void\ stopMusic()
+comment3.params=
+comment3.target=boolean\ getWindow()
+numComments=4
